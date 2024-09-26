@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishraque Ahmad</h1>
 <h3 align="center">Welcome to my profile! I am a dedicated BTech Computer Science student with a passion for web development and software engineering.</h3>
 
-<h1 align="center">Hi 👋, I'm Dipayan Rana</h1>
-<h3 align="center">Welcome to my profile! I am an enthusiastic and accomplished MCA post-graduate with a deep passion for all things Java and web development.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipayanrana&label=Profile%20views&color=0e75b6&style=flat" alt="dipayanrana" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipayanrana" alt="dipayanrana" /></a> </p>
