@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishraque Ahmad</h1>
-<h3 align="center">Welcome to my profile! I am a dedicated BTech Computer Science student with a passion for web development and software engineering.</h3>
+<h3 align="center">Welcome to my profile! I am a dedicated BTech Computer Science student with a passion for Java Developer,Web Development and Software Engineering.</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishraque8242" alt="ishraque8242" /></a> </p>
@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/dipayanrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipayanrana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ishraque-ahmad-3212b7224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishraqueahmad" height="30" width="40" /></a>
 
 <a href="https://fb.com/dipayanrana13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dipayanrana13" height="30" width="40" /></a>
 <a href="https://instagram.com/ishraque_8242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishraque_8242" height="30" width="40" /></a>
