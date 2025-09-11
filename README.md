@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishraque Ahmad</h1>
-<h3 align="center">Welcome to my profile! I am a dedicated BTech Computer Science student with a passion for Java Developer,Web Development and Software Engineering.</h3>
+<h3 align="center">Welcome to my profile! I am a dedicated BTech Computer Science student with a passion for Java Development,Web Development and Software Engineering.</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishraque8242" alt="ishraque8242" /></a> </p>
